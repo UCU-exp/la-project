@@ -1,6 +1,6 @@
 [project]
 name = "la_coding_theory"
-version = "0.0.2"
+version = "0.0.4"
 authors = [
   { name="Max Kutsenko", email="kutsenko.pn@ucu.edu.ua" },
 	{ name="Katja Kovalchuk", email="kovalchuk.pn@ucu.edu.ua" },
