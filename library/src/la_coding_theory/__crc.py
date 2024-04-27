@@ -1,5 +1,5 @@
 """
-     implementation
+Cyclic redundancy check implementation
 """
 
 import typing as _typing
